@@ -1,2 +1,3 @@
 # hello-world
 My first repository and baby step into the world of coding
+My name is Konrad but often go by the nickname "Brad". I work what's known as the graveyard shift which is 10:30pm to 5:30am.  I am rather old to be learning to code, but I have always loved to learn new things so I embark on this new adventure with eager anticipation. It may take me a long time to learn compared to younger folks but I often have a lot of spare time in front of the computer so why not?  If it turns out that I enjoy coding I'll pursue employment in the field and be assured the ability to sustain myself financially into the future.
